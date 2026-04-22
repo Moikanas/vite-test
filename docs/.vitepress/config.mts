@@ -19,6 +19,12 @@ export default defineConfig({
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
+
+      },
+      { text: 'Guides',
+        items: [
+          { text: 'OBS Replay Buffer', link: '/OBS Instant Replay'}
+        ] 
       }
     ],
 
