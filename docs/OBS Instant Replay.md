@@ -11,7 +11,7 @@
 
       ![obs_guide6 (2).png](.attachments.20806/obs_guide6%20%282%29.png)
 
-# Replay Buffer setup
+## Replay Buffer setup
 
 1. Open Output settings :
 
@@ -73,8 +73,3 @@
 3. Move the shortcut on that folder
 
    ![obs_guide1.png](.attachments.20806/obs_guide1.png)
-
-::: success
-Done!
-
-:::
