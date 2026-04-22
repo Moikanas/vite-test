@@ -23,7 +23,7 @@ export default defineConfig({
       },
       { text: 'Guides',
         items: [
-          { text: 'OBS Replay Buffer', link: '/OBS Instant Replay'}
+          { text: 'OBS Replay Buffer', link: '/OBS Instant Replay'},
         ] 
       }
     ],
